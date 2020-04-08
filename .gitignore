@@ -1,0 +1,2 @@
+*.o
+disparity_cuda
